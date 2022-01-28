@@ -12,6 +12,6 @@ Bizim veri setimiz mesela 800 maskeli, 800 maskesiz, ondan sonra görütü işle
 Ondan sonra yüzü kesicez sadece yüz tanılmlansın diye Sonrada test yapar (Maskeli mi , Maskesiz mi).
 Classfication yaptığmız zaman iki Sınıfa ayırılır: Birincisi Maskeli, İkincisi Maskesiz.
 Yüzümüz Maskeli ise : Verimiz (True) olarak gösterilecektir.
-Yüzümüz Maskesiz ise : Verimiz (False) olarak gösterilecektir .
+Yüzümüz Maskesiz ise : Verimiz (False) olarak gösterilecektir.
   
   
