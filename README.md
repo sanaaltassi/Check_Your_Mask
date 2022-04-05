@@ -13,3 +13,6 @@ Ondan sonra yüzü kesicez sadece yüz tanılmlansın diye Sonrada test yapar (M
 Classfication yaptığmız zaman iki Sınıfa ayırılır: Birincisi Maskeli, İkincisi Maskesiz.
 Yüzümüz Maskeli ise : Verimiz (True) olarak gösterilecektir.
 Yüzümüz Maskesiz ise : Verimiz (False) olarak gösterilecektir.
+
+
+
