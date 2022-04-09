@@ -14,4 +14,3 @@ Classfication yaptığmız zaman iki Sınıfa ayırılır: Birincisi Maskeli, İ
 Yüzümüz Maskeli ise : Verimiz (True) olarak gösterilecektir.
 Yüzümüz Maskesiz ise : Verimiz (False) olarak gösterilecektir.
 
-
